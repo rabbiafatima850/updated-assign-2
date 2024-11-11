@@ -1,8 +1,6 @@
 healthcare_diagnostics=input('enter your problem :')
 
-
-if healthcare_diagnostics!='':
-     
+if healthcare_diagnostics!='':     
 #for headache.
     if healthcare_diagnostics=='headache':
      print ('flu')
@@ -30,12 +28,8 @@ elif healthcare_diagnostics=='':
      print('i have no idea')
 else:
      print('plz mention your problem')
-
 print(healthcare_diagnostics) 
 
 
-
-
-#prepared by:rabbia fatima, ghazala and maira.
 
   
